@@ -1,0 +1,44 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+*.vscode/
+
+# Django
+*.sqlite3
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+# Environment variables
+.env
+*.env
+*.env.*
+
+# Local development settings
+settings_local.py
+
+# Database dumps
+*.sql
+*.sqlite
+
